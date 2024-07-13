@@ -15,6 +15,6 @@ A responsive and feature-rich Todo List web application built with HTML, CSS, an
 ## Technologies Used
 
 - HTML5
-- CSS3 (with Tailwind CSS and DaisyUI)
-- JavaScript (ES6+)
+- CSS3 , Tailwind CSS 
+- JavaScript 
 - BoxIcons for icons
